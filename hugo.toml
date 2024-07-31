@@ -1,7 +1,14 @@
-baseURL = 'https://lana-learn-coding.github.io/mawnroad/'
+baseURL = 'https://mawnroad.pages.dev'
 languageCode = 'en-us'
 title = 'Mawnroad'
 theme = 'mainroad'
+
+[params]
+copyright = "Mawngo"
+opengraph = true
+schema = true
+readmore = true
+authorbox = true
 
 [params.author]
 name = "Manwgo"
