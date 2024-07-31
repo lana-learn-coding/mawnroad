@@ -2,7 +2,6 @@ baseURL = 'https://lana-learn-coding.github.io/mawnroad/'
 languageCode = 'en-us'
 title = 'Mawnroad'
 theme = 'mainroad'
-themesDir = "../themes"
 
 [params.author]
 name = "Manwgo"
