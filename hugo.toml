@@ -2,16 +2,17 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Mawnroad'
 theme = 'mainroad'
+publishDir = 'docs'
 
 [params.author]
 name = "Manwgo"
 bio = "Manwgo's true identity is unknown. Maybe he is a successful blogger or writer. Nobody knows it."
 
 [params.style.vars]
-highlightColor = "#e22d30" # Override highlight color
+highlightColor = "#a16207" # Override highlight color
 
 [params.logo]
-subtitle = "Just another site"
+subtitle = "Playground for testing various stuff"
 
 [params.sidebar]
 home = "right" # Configure layout for home page
