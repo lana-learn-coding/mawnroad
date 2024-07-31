@@ -1,0 +1,20 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Mawnroad'
+theme = 'mainroad'
+
+[params.author]
+name = "Manwgo"
+bio = "Manwgo's true identity is unknown. Maybe he is a successful blogger or writer. Nobody knows it."
+
+[params.style.vars]
+highlightColor = "#e22d30" # Override highlight color
+
+[params.logo]
+subtitle = "Just another site"
+
+[params.sidebar]
+home = "right" # Configure layout for home page
+list = "left"  # Configure layout for list pages
+single = false # Configure layout for single pages
+widgets = ["search", "recent", "categories", "taglist", "social", "languages"]
