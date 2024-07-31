@@ -2,6 +2,10 @@ baseURL = 'https://mawnroad.pages.dev'
 languageCode = 'en-us'
 title = 'Mawnroad'
 theme = 'mainroad'
+paginate = '10'
+
+[markup.goldmark.renderer]
+unsafe = true
 
 [params]
 copyright = "Mawngo"
@@ -9,8 +13,11 @@ opengraph = true
 schema = true
 readmore = true
 authorbox = true
+pager = true
+post_meta = ["date"]
 
-[params.author]
+[author]
+avatar = "img/avatar.jpg"
 name = "Manwgo"
 bio = "Manwgo's true identity is unknown. Maybe he is a successful blogger or writer. Nobody knows it."
 
@@ -22,6 +29,6 @@ subtitle = "Playground for testing various stuff"
 
 [params.sidebar]
 home = "right" # Configure layout for home page
-list = "left"  # Configure layout for list pages
-single = false # Configure layout for single pages
-widgets = ["search", "recent", "categories", "taglist", "social", "languages"]
+list = "right"  # Configure layout for list pages
+single = "right" # Configure layout for single pages
+widgets = ["search", "recent", "categories", "taglist", "social"]
