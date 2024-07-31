@@ -3,6 +3,7 @@ languageCode = 'en-us'
 title = 'Mawnroad'
 theme = 'mainroad'
 publishDir = 'docs'
+themesDir = "../themes"
 
 [params.author]
 name = "Manwgo"
