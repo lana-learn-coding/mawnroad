@@ -21,6 +21,12 @@ avatar = "img/avatar.jpg"
 name = "Manwgo"
 bio = "Manwgo's true identity is unknown. Maybe he is a successful blogger or writer. Nobody knows it."
 
+[params.author]
+avatar = "img/avatar.jpg"
+name = "Manwgo"
+bio = "Manwgo's true identity is unknown. Maybe he is a successful blogger or writer. Nobody knows it."
+
+
 [params.style.vars]
 highlightColor = "#a16207" # Override highlight color
 

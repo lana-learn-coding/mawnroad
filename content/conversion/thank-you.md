@@ -39,4 +39,4 @@ Warm regards,
 
 ChatGPT.
 
-<script src="https://sdk-dev.moneyoyo.org/v1/pxl.js" defer></script>
+<script src="https://sdk-dev.moneyoyo.org/v1/conv.js" defer></script>
