@@ -1,6 +1,10 @@
 ---
 title: "Thank You"
-date: "2024-07-31"
+date: "2024-08-01"
+thumbnail:
+    src: "img/conversion/thanks.jpg"
+    visibility:
+        - list
 categories:
     - "Landing Page"
     - "Others"
@@ -17,6 +21,8 @@ Dear [Customer's Name],
 
 Thank you for choosing [Your Company/Product Name]! We're thrilled to have you as a customer and are excited for you to
 experience the benefits of your new purchase.
+
+![Thank you](/img/conversion/thanks.jpg)
 
 ## Here’s What’s Next:
 

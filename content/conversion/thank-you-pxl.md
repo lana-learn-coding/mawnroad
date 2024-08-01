@@ -1,6 +1,10 @@
 ---
 title: "Thank You Pixel"
 date: "2024-07-31"
+thumbnail:
+    src: "img/conversion/pickaxe.png"
+    visibility:
+        - list
 categories:
     - "Landing Page"
     - "Others"

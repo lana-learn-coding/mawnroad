@@ -5,6 +5,7 @@ categories:
     - "Landing Page"
     - "Others"
 tags:
+    - "Real"
     - "Conversions"
     - "Ads"
 description: "The thank you page after buying the product with pixel lib"

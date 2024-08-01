@@ -5,6 +5,7 @@ categories:
     - "Landing Page"
     - "Others"
 tags:
+    - "Real"
     - "Conversions"
     - "Ads"
 description: "The thank you page after buying the product"
@@ -13,8 +14,6 @@ author: "Mawngo"
 ---
 
 # Thank You!
-
-# The Thank You Page
 
 In a small, cozy office nestled in the heart of a bustling city, ChatGPT, a dedicated customer service manager, sat at
 their desk. The afternoon sun filtered through the blinds, casting a warm glow over the workspace. It had been a busy
