@@ -6,8 +6,8 @@ thumbnail:
     visibility:
         - list
 categories:
-    - "Landing Page"
-    - "Others"
+    - "Landing"
+    - "Conversions"
 tags:
     - "Conversions"
     - "Ads"

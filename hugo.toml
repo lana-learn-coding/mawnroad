@@ -14,7 +14,7 @@ schema = true
 readmore = true
 authorbox = true
 pager = true
-post_meta = ["date"]
+post_meta = ["date", "categories"]
 
 [services.disqus]
 shortname = "mawnroad"

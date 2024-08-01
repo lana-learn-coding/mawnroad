@@ -2,8 +2,8 @@
 title: "The REAL Thank You"
 date: "2024-07-31"
 categories:
-    - "Landing Page"
-    - "Others"
+    - "Landing"
+    - "Conversions"
 tags:
     - "Real"
     - "Conversions"

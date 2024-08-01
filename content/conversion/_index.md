@@ -5,5 +5,3 @@ menu: main
 tags:
     - "Conversions"
 ---
-
-Target pages for tracking conversions.
