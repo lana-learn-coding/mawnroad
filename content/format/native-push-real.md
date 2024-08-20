@@ -12,12 +12,6 @@ lead: "Demonstration of the native push"
 
 <script src="https://sdk.moneyoyo.com/v1/webpush.js?pid=yn8aBIF9ytmj92XFyOxZOd1wBopu5wtTcml5tZRrj_8" async></script>
 
-# Banner Ads: The Evolution of Online Advertising
-
-<!-- Start zone mnyyz93140487 -->
-<div id="mnyyz93140487"></div><script>if (!window.MNYYBanners) {(function () {var s = document.createElement("script");s.async = true;s.type = "text/javascript";s.src = "https://sdk-dev.moneyoyo.org/v1/banner.js?pid=66GwjROBg5L1W69Zt4m2FHLkaCs_mzD2YNr75XZW-CQ";var n = document.getElementsByTagName("script")[0];n.parentNode.insertBefore(s, n);})();} window.MNYYBanners = window.MNYYBanners || [];window.MNYYBanners.push({ zone: 'mnyyz93140487', gamClickURL:'%%CLICK_URL_UNESC%%' });</script>
-<!-- End zone mnyyz93140487 -->
-
 # Native Push Ads: The Future of Subtle, Effective Advertising
 
 In an ever-evolving digital landscape, advertisers constantly seek innovative ways to engage users without disrupting
