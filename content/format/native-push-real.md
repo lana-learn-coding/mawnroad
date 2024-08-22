@@ -10,7 +10,6 @@ description: "Demonstration of the native push"
 lead: "Demonstration of the native push"
 ---
 
-<script src="https://sdk.moneyoyo.com/v1/webpush.js?pid=yn8aBIF9ytmj92XFyOxZOd1wBopu5wtTcml5tZRrj_8" async></script>
 
 # Native Push Ads: The Future of Subtle, Effective Advertising
 
