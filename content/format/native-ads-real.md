@@ -1,5 +1,5 @@
 ---
-title: "The one and only Native Ads"
+title: "The One And Only Native Ads"
 date: "2024-08-18"
 categories:
     - "Ads"

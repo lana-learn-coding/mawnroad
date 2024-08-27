@@ -1,6 +1,10 @@
 ---
 title: "Banner Ads"
 date: "2024-08-18"
+thumbnail:
+    src: "img/format/banner.jpeg"
+    visibility:
+        - list
 categories:
     - "Ads"
 tags:
