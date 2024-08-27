@@ -1,6 +1,6 @@
 ---
 title: "The One And Only Native Ads"
-date: "2024-08-18"
+date: "2024-08-15"
 categories:
     - "Ads"
 tags:
