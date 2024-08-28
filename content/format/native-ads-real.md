@@ -21,7 +21,7 @@ beyond just blending in with the surrounding media; it lies in providing genuine
 their needs and interests without being deceptive or intrusive. This is what we refer to as "real" native ads.
 
 <!-- Start native ads zone mnyyz86681287 -->
-<div id="mnyyz86681287"></div><script>if (!window.MNYYNativeAds) {(function () {var s = document.createElement("script");s.async = true;s.type = "text/javascript";s.src = "https://sdk-dev.moneyoyo.org/v1/native.js?pid=yn8aBIF9ytmj92XFyOxZOd1wBopu5wtTcml5tZRrj_8";var n = document.getElementsByTagName("script")[0];n.parentNode.insertBefore(s, n);})();} window.MNYYNativeAds = window.MNYYNativeAds || [];window.MNYYNativeAds.push({ zone: 'mnyyz86681287', gamClickURL:'%%CLICK_URL_UNESC%%' });</script>
+<div id="mnyyz86681287"></div><script>if (!window.MNYYNativeAds) {(function () {var s = document.createElement("script");s.async = true;s.type = "text/javascript";s.src = "https://sdk.moneyoyo.com/v1/native.js?pid=yn8aBIF9ytmj92XFyOxZOd1wBopu5wtTcml5tZRrj_8";var n = document.getElementsByTagName("script")[0];n.parentNode.insertBefore(s, n);})();} window.MNYYNativeAds = window.MNYYNativeAds || [];window.MNYYNativeAds.push({ zone: 'mnyyz86681287', gamClickURL:'%%CLICK_URL_UNESC%%' });</script>
 <!-- End native ads zone mnyyz86681287 -->
 
 **Understanding Real Native Ads**
@@ -81,7 +81,7 @@ healthier media ecosystem. They support quality journalism and content creation 
 publishers without compromising editorial integrity.
 
 <!-- Start native ads zone mnyyz68915510 -->
-<div id="mnyyz68915510"></div><script>if (!window.MNYYNativeAds) {(function () {var s = document.createElement("script");s.async = true;s.type = "text/javascript";s.src = "https://sdk-dev.moneyoyo.org/v1/native.js?pid=yn8aBIF9ytmj92XFyOxZOd1wBopu5wtTcml5tZRrj_8";var n = document.getElementsByTagName("script")[0];n.parentNode.insertBefore(s, n);})();} window.MNYYNativeAds = window.MNYYNativeAds || [];window.MNYYNativeAds.push({ zone: 'mnyyz68915510', gamClickURL:'%%CLICK_URL_UNESC%%' });</script>
+<div id="mnyyz68915510"></div><script>if (!window.MNYYNativeAds) {(function () {var s = document.createElement("script");s.async = true;s.type = "text/javascript";s.src = "https://sdk.moneyoyo.com/v1/native.js?pid=yn8aBIF9ytmj92XFyOxZOd1wBopu5wtTcml5tZRrj_8";var n = document.getElementsByTagName("script")[0];n.parentNode.insertBefore(s, n);})();} window.MNYYNativeAds = window.MNYYNativeAds || [];window.MNYYNativeAds.push({ zone: 'mnyyz68915510', gamClickURL:'%%CLICK_URL_UNESC%%' });</script>
 <!-- End native ads zone mnyyz68915510 -->
 
 **Conclusion**
