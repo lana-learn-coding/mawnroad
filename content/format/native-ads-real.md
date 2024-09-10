@@ -6,6 +6,7 @@ categories:
 tags:
     - "Demo"
     - "Ads"
+    - "Real"
 description: "Demonstration of the REAL native ads"
 lead: "Demonstration of the REAL native ads"
 ---
