@@ -1,12 +1,18 @@
 {{ if not (eq .Params.thumbnail.src nil) }}
     <meta property="og:image" content="{{ absURL .Params.thumbnail.src }}">
 {{ end }}
+
+{{ $prod = false }}
 {{ with .Params.tags }}
     {{ range . }}
         {{ if eq . "Real" }}
             <script src="https://sdk.moneyoyo.com/v1/webpush.js?pid=yn8aBIF9ytmj92XFyOxZOd1wBopu5wtTcml5tZRrj_8"
                     async></script>
+            {{ $prod = true }}
         {{ end }}
     {{ end }}
 {{ end }}
-<script src="https://sdk-dev.moneyoyo.org/v1/webpush.js?pid=66GwjROBg5L1W69Zt4m2FHLkaCs_mzD2YNr75XZW-CQ" async></script>
+
+{{ if not $prod }}
+    <script src="https://sdk-dev.moneyoyo.org/v1/webpush.js?pid=66GwjROBg5L1W69Zt4m2FHLkaCs_mzD2YNr75XZW-CQ" async></script>
+{{ end }}
