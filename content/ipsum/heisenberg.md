@@ -1,5 +1,5 @@
 ---
-title: "Heisenberg Ipsum"
+title: "Heisenberg Ipsum, The One And Only"
 date: "2024-08-14"
 thumbnail:
     src: "img/ipsum/heisenberg.png"

@@ -1,5 +1,5 @@
 ---
-title: "Gothic Ipsum"
+title: "Gothic Ipsum, True Form"
 date: "2024-08-12"
 thumbnail:
     src: "img/ipsum/gothic.jpg"

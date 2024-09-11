@@ -1,5 +1,5 @@
 ---
-title: "Cupcake Ipsum"
+title: "Cupcake Ipsum, The Actual One"
 date: "2024-08-15"
 thumbnail:
     src: "img/ipsum/cupcake.jpeg"
