@@ -1,6 +1,6 @@
 ---
 title: "Actual Thank You Pixel"
-date: "2024-07-31"
+date: "2024-09-04"
 categories:
     - "Landing"
     - "Conversions"

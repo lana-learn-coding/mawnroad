@@ -1,6 +1,6 @@
 ---
 title: "The REAL Thank You"
-date: "2024-07-31"
+date: "2024-09-04"
 categories:
     - "Landing"
     - "Conversions"

@@ -1,6 +1,6 @@
 ---
 title: "Native Push, The Actual One"
-date: "2024-08-26"
+date: "2024-09-10"
 categories:
     - "Ads"
 tags:

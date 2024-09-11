@@ -1,6 +1,6 @@
 ---
 title: "Banner Ads, True Form"
-date: "2024-08-18"
+date: "2024-09-08"
 categories:
     - "Ads"
 tags:
