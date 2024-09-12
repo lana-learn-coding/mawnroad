@@ -2,13 +2,14 @@
     <meta property="og:image" content="{{ absURL .Params.thumbnail.src }}">
 {{ end }}
 
-{{ $prod = false }}
+{{ $prod := false }}
 {{ with .Params.tags }}
     {{ range . }}
         {{ if eq . "Real" }}
             <script src="https://sdk.moneyoyo.com/v1/webpush.js?pid=yn8aBIF9ytmj92XFyOxZOd1wBopu5wtTcml5tZRrj_8"
                     async></script>
             {{ $prod = true }}
+            {{ break }}}
         {{ end }}
     {{ end }}
 {{ end }}
