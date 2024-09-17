@@ -15,7 +15,7 @@ description: "The thank you page after buying the product, fake edition, with pi
 lead: "The thank you page after buying the product, fake edition, with pixel lib"
 ---
 
-<script src="https://sdk-dev.moneyoyo.org/v1/pxl.js" defer></script>
+<script src="https://sdk-dev.moneyoyo.org/v1/pxl.js"></script>
 
 # Thank You!
 

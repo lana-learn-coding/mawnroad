@@ -12,7 +12,7 @@ description: "The thank you page after buying the product with pixel lib"
 lead: "The thank you page after buying the product with pixel lib"
 ---
 
-<script src="https://sdk.moneyoyo.com/v1/pxl.js" defer></script>
+<script src="https://sdk.moneyoyo.com/v1/pxl.js"></script>
 
 # Thank You!
 
