@@ -1,3 +1,6 @@
 [submodule "themes/mainroad"]
 	path = themes/mainroad
 	url = https://github.com/vimux/mainroad.git
+[submodule "themes/browse"]
+	path = themes/browse
+	url = https://github.com/mawngo/browse/

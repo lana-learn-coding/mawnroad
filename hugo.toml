@@ -1,8 +1,9 @@
 baseURL = 'https://mawnroad.pages.dev'
 languageCode = 'en-us'
 title = 'Mawnroad'
-theme = 'mainroad'
+theme = 'browse'
 paginate = '10'
+disqusShortname = "mawnroad"
 
 [markup.goldmark.renderer]
 unsafe = true
@@ -15,6 +16,7 @@ readmore = true
 authorbox = true
 pager = true
 post_meta = ["date", "categories"]
+defaultLightingMode = 'dark'
 
 [services.disqus]
 shortname = "mawnroad"
