@@ -20,6 +20,8 @@ defaultLightingMode = 'dark'
 
 [services.disqus]
 shortname = "mawnroad"
+[services.googleAnalytics]
+ID = "G-MEASUREMENT_ID"
 
 [author]
 avatar = "img/avatar.jpg"
