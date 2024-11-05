@@ -16,9 +16,9 @@ lead: "Demonstration of the banner ads, fake edition"
 
 # Banner Ads: The Evolution of Online Advertising
 
-<!-- Start zone mnyyz93140487 -->
-<div id="mnyyz93140487"></div><script>if (!window.MNYYBanners) {(function () {var s = document.createElement("script");s.async = true;s.type = "text/javascript";s.src = "https://sdk-dev.moneyoyo.org/v1/banner.js?pid=66GwjROBg5L1W69Zt4m2FHLkaCs_mzD2YNr75XZW-CQ";var n = document.getElementsByTagName("script")[0];n.parentNode.insertBefore(s, n);})();} window.MNYYBanners = window.MNYYBanners || [];window.MNYYBanners.push({ zone: 'mnyyz93140487', gamClickURL:'%%CLICK_URL_UNESC%%' });</script>
-<!-- End zone mnyyz93140487 -->
+<!-- Start banner zone mnyyz50909728 -->
+<div id="mnyyz50909728"></div><script>if (!window.MNYYBanners) {(function () {var s = document.createElement("script");s.async = true;s.type = "text/javascript";s.src = "https://sdk-dev.moneyoyo.org/v1/banner.js?pid=66GwjROBg5L1W69Zt4m2FHLkaCs_mzD2YNr75XZW-CQ";var n = document.getElementsByTagName("script")[0];n.parentNode.insertBefore(s, n);})();} window.MNYYBanners = window.MNYYBanners || [];window.MNYYBanners.push({ zone: 'mnyyz50909728', gamClickURL:'%%CLICK_URL_UNESC%%' });</script>
+<!-- End banner zone mnyyz50909728 -->
 
 ### Introduction
 
@@ -68,9 +68,9 @@ Moreover, the increasing use of ad blockers presents another challenge that the 
 banner ads will need to provide real value to users, whether through relevant content, exclusive offers, or unique
 interactive experiences.
 
-<!-- Start zone mnyyz11268080 -->
-<div id="mnyyz11268080"></div><script>if (!window.MNYYBanners) {(function () {var s = document.createElement("script");s.async = true;s.type = "text/javascript";s.src = "https://sdk-dev.moneyoyo.org/v1/banner.js?pid=66GwjROBg5L1W69Zt4m2FHLkaCs_mzD2YNr75XZW-CQ";var n = document.getElementsByTagName("script")[0];n.parentNode.insertBefore(s, n);})();} window.MNYYBanners = window.MNYYBanners || [];window.MNYYBanners.push({ zone: 'mnyyz11268080', gamClickURL:'%%CLICK_URL_UNESC%%' });</script>
-<!-- End zone mnyyz11268080 -->
+<!-- Start banner zone mnyyz94505427 -->
+<div id="mnyyz94505427"></div><script>if (!window.MNYYBanners) {(function () {var s = document.createElement("script");s.async = true;s.type = "text/javascript";s.src = "https://sdk-dev.moneyoyo.org/v1/banner.js?pid=66GwjROBg5L1W69Zt4m2FHLkaCs_mzD2YNr75XZW-CQ";var n = document.getElementsByTagName("script")[0];n.parentNode.insertBefore(s, n);})();} window.MNYYBanners = window.MNYYBanners || [];window.MNYYBanners.push({ zone: 'mnyyz94505427', gamClickURL:'%%CLICK_URL_UNESC%%' });</script>
+<!-- End banner zone mnyyz94505427 -->
 
 ### Conclusion
 
