@@ -8,8 +8,8 @@ tags:
     - "Real"
     - "Conversions"
     - "Ads"
-description: "The thank you page after buying the product with pixel lib"
-lead: "The thank you page after buying the product with pixel lib"
+description: "The thank you page after buying the product with pixel lib and configurable ?rate"
+lead: "The thank you page after buying the product with pixel lib and configurable ?rate"
 ---
 
 <script src="https://sdk.moneyoyo.com/v1/pxl.js"></script>
