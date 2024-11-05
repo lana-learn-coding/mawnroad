@@ -34,4 +34,14 @@ Warmest regards,
 
 **ChatGPT**
 
-<script>window.mnyypxl();</script>
+<script>
+    document.addEventListener('DOMContentLoaded', () => {
+        const rate = new URLSearchParams(window.location.search).get('rate');
+        if (rate) {
+            if (Math.random() > Number(rate)) {
+                return;
+            }
+        }
+        window.mnyypxl();
+    })
+</script>
