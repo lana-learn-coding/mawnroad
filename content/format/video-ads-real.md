@@ -20,7 +20,7 @@ cornerstone of modern advertising strategies? Let's dive in.
 #### What Are Outstream Video Ads?
 
 <!-- Start video zone mnyyz14532784 -->
-<div id="mnyyz14532784"></div><script>if (!window.MNYYVideos) {(function () {var s = document.createElement("script");s.async = true;s.type = "text/javascript";s.src = "https://sdk-dev.moneyoyo.org/v1/video.js?pid=yn8aBIF9ytmj92XFyOxZOd1wBopu5wtTcml5tZRrj_8";var n = document.getElementsByTagName("script")[0];n.parentNode.insertBefore(s, n);})();} window.MNYYVideos = window.MNYYVideos || [];window.MNYYVideos.push({ zone: 'mnyyz14532784', gamClickURL:'%%CLICK_URL_UNESC%%' });</script>
+<div id="mnyyz14532784"></div><script>if (!window.MNYYVideos) {(function () {var s = document.createElement("script");s.async = true;s.type = "text/javascript";s.src = "https://sdk.moneyoyo.com/v1/video.js?pid=yn8aBIF9ytmj92XFyOxZOd1wBopu5wtTcml5tZRrj_8";var n = document.getElementsByTagName("script")[0];n.parentNode.insertBefore(s, n);})();} window.MNYYVideos = window.MNYYVideos || [];window.MNYYVideos.push({ zone: 'mnyyz14532784', gamClickURL:'%%CLICK_URL_UNESC%%' });</script>
 <!-- End video zone mnyyz14532784 -->
 
 Outstream video ads are a form of video advertising that appears outside of traditional video content. Unlike instream
@@ -63,7 +63,7 @@ pause if the user scrolls past, ensuring a seamless browsing experience.
    accordingly.
 
 <!-- Start video zone mnyyz94275522 -->
-<div id="mnyyz94275522"></div><script>if (!window.MNYYVideos) {(function () {var s = document.createElement("script");s.async = true;s.type = "text/javascript";s.src = "https://sdk-dev.moneyoyo.org/v1/video.js?pid=yn8aBIF9ytmj92XFyOxZOd1wBopu5wtTcml5tZRrj_8";var n = document.getElementsByTagName("script")[0];n.parentNode.insertBefore(s, n);})();} window.MNYYVideos = window.MNYYVideos || [];window.MNYYVideos.push({ zone: 'mnyyz94275522', gamClickURL:'%%CLICK_URL_UNESC%%' });</script>
+<div id="mnyyz94275522"></div><script>if (!window.MNYYVideos) {(function () {var s = document.createElement("script");s.async = true;s.type = "text/javascript";s.src = "https://sdk.moneyoyo.com/v1/video.js?pid=yn8aBIF9ytmj92XFyOxZOd1wBopu5wtTcml5tZRrj_8";var n = document.getElementsByTagName("script")[0];n.parentNode.insertBefore(s, n);})();} window.MNYYVideos = window.MNYYVideos || [];window.MNYYVideos.push({ zone: 'mnyyz94275522', gamClickURL:'%%CLICK_URL_UNESC%%' });</script>
 <!-- End video zone mnyyz94275522 -->
 
 #### The Future of Outstream Video Advertising
