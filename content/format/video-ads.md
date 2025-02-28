@@ -6,6 +6,7 @@ categories:
 tags:
     - "Demo"
     - "Ads"
+    - "Video"
 description: "Demonstration of the video ads, fake edition"
 lead: "Demonstration of the video ads, fake edition"
 ---

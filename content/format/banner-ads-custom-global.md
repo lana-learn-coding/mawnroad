@@ -6,11 +6,12 @@ categories:
 tags:
     - "Demo"
     - "Ads"
+    - "Banner"
 description: "Demonstration of the banner ads, fake edition, with customized global"
 lead: "Demonstration of the banner ads, fake edition, with customized global"
 ---
 
-# Banner Ads: The Evolution of Online Advertising
+# Banner Ads: The Evolution of Online Advertising (With Custom Global)
 
 <!-- Start zone mnyyz93140487 -->
 <div id="mnyyz93140487"></div><script>if (!window.MNYYBs) {(function () {var s = document.createElement("script");s.async = true;s.type = "text/javascript";s.src = "https://sdk-dev.moneyoyo.org/v1/banner.js?pid=66GwjROBg5L1W69Zt4m2FHLkaCs_mzD2YNr75XZW-CQ&glb=MNYYBs";var n = document.getElementsByTagName("script")[0];n.parentNode.insertBefore(s, n);})();} window.MNYYBs = window.MNYYBs || [];window.MNYYBs.push({ zone: 'mnyyz93140487', gamClickURL:'%%CLICK_URL_UNESC%%' });</script>

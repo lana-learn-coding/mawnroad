@@ -10,6 +10,7 @@ categories:
 tags:
     - "Demo"
     - "Ads"
+    - "Banner"
 description: "Demonstration of the banner ads, fake edition"
 lead: "Demonstration of the banner ads, fake edition"
 ---

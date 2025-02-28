@@ -10,6 +10,7 @@ categories:
 tags:
     - "Demo"
     - "Ads"
+    - "Banner"
 description: "Demonstration of the interscroller banner ads, fake edition"
 lead: "Demonstration of the interscroller banner ads, fake edition"
 ---

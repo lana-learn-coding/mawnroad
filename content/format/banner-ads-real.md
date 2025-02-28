@@ -7,6 +7,7 @@ tags:
     - "Demo"
     - "Ads"
     - "Real"
+    - "Banner"
 description: "Demonstration of the banner ads, seriously"
 lead: "Demonstration of the banner ads, seriously"
 ---

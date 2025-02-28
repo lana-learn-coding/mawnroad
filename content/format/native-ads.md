@@ -10,6 +10,7 @@ categories:
 tags:
     - "Demo"
     - "Ads"
+    - "Native"
 description: "Demonstration of the FAKE native ads"
 lead: "Demonstration of the FAKE native ads"
 ---

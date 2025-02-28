@@ -7,6 +7,7 @@ tags:
     - "Demo"
     - "Ads"
     - "Real"
+    - "Native"
 description: "Demonstration of the REAL native ads"
 lead: "Demonstration of the REAL native ads"
 ---
