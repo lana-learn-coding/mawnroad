@@ -101,16 +101,23 @@ enhanced targeting, and improved engagement with audiences. By following best pr
 latest VAST standards, businesses can maximize the impact of their video ad campaigns.
 
 Would you like insights on specific VAST ad formats or implementation steps? Let me know!
-
 <script>
     const videoJsInstance = videojs('my-video', {
         controls: true,
         autoplay: false,
         preload: 'auto'
     });
-    setTimeout(() => {
-        videoJsInstance.vast({
-            url: 'https://api-dev.moneyoyo.org/api/v1/public/feeds/vast_video?pid=66GwjROBg5L1W69Zt4m2FHLkaCs_mzD2YNr75XZW-CQ&zid=58742972&wid=55779197',
-        });
-    }, 2000)
+    videoJsInstance.vast({
+        skip: 5,
+        schedule: [
+            {
+                url: 'https://api-dev.moneyoyo.org/api/v1/public/feeds/vast_video?pid=66GwjROBg5L1W69Zt4m2FHLkaCs_mzD2YNr75XZW-CQ&zid=58742972&wid=55779197',
+                offset: '00:00:03',
+            },
+            {
+                url: 'https://api-dev.moneyoyo.org/api/v1/public/feeds/vast_video?pid=66GwjROBg5L1W69Zt4m2FHLkaCs_mzD2YNr75XZW-CQ&zid=58742972&wid=55779197',
+                offset: '80%',
+            }
+        ]
+    });
 </script>
