@@ -111,11 +111,11 @@ Would you like insights on specific VAST ad formats or implementation steps? Let
         skip: 5,
         schedule: [
             {
-                url: 'https://api-dev.moneyoyo.org/api/v1/public/feeds/vast_video?pid=66GwjROBg5L1W69Zt4m2FHLkaCs_mzD2YNr75XZW-CQ&zid=58742972&wid=55779197',
+                url: 'https://api-dev.moneyoyo.org/api/v1/public/feeds/vast_video?pid=66GwjROBg5L1W69Zt4m2FHLkaCs_mzD2YNr75XZW-CQ&zid=32540061',
                 offset: '00:00:03',
             },
             {
-                url: 'https://api-dev.moneyoyo.org/api/v1/public/feeds/vast_video?pid=66GwjROBg5L1W69Zt4m2FHLkaCs_mzD2YNr75XZW-CQ&zid=58742972&wid=55779197',
+                url: 'https://api-dev.moneyoyo.org/api/v1/public/feeds/vast_video?pid=66GwjROBg5L1W69Zt4m2FHLkaCs_mzD2YNr75XZW-CQ&zid=72310609',
                 offset: '80%',
             }
         ]
