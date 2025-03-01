@@ -8,7 +8,6 @@ thumbnail:
 categories:
     - "Ipsum"
 description: "For those times when you need some legal-sounding gibberish but don't have the budget to hire a lawyer at $400/hr."
-lead: "For those times when you need some legal-sounding gibberish but don't have the budget to hire a lawyer at $400/hr."
 ---
 
 # Legal Ipsum

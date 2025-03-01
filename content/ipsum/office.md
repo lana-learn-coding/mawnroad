@@ -8,7 +8,6 @@ thumbnail:
 categories:
     - "Ipsum"
 description: "Office Ipsum - Dummy Copy for the Corporate World"
-lead: "Office Ipsum - Dummy Copy for the Corporate World"
 ---
 
 # Office Ipsum

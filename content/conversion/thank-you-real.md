@@ -9,7 +9,6 @@ tags:
     - "Conversions"
     - "Ads"
 description: "The thank you page after buying the product"
-lead: "The thank you page after buying the product"
 author: "Mawngo"
 ---
 

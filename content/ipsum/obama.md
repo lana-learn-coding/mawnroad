@@ -4,7 +4,6 @@ date: "2024-08-12"
 categories:
     - "Ipsum"
 description: "Obama Ipsum - The most presidential lorem ipsum in history."
-lead: "Obama Ipsum - The most presidential lorem ipsum in history."
 ---
 
 # Obama Ipsum

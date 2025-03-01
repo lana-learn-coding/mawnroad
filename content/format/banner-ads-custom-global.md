@@ -8,7 +8,6 @@ tags:
     - "Ads"
     - "Banner"
 description: "Demonstration of the banner ads, fake edition, with customized global"
-lead: "Demonstration of the banner ads, fake edition, with customized global"
 ---
 
 # Banner Ads: The Evolution of Online Advertising (With Custom Global)

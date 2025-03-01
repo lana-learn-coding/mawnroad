@@ -8,7 +8,6 @@ thumbnail:
 categories:
     - "Ipsum"
 description: "He's smart. He's lovable. He's Dexter Morgan, America's favorite serial killer, who spends his days solving crimes and nights committing them."
-lead: "He's smart. He's lovable. He's Dexter Morgan, America's favorite serial killer, who spends his days solving crimes and nights committing them."
 ---
 
 # You look…perfect.

@@ -10,7 +10,6 @@ categories:
 tags:
     - "Real"
 description: "Sugar-coated Lorem Ipsum Generator"
-lead: "Sugar-coated Lorem Ipsum Generator"
 ---
 
 # Cupcake Ipsum

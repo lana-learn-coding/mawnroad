@@ -8,7 +8,6 @@ thumbnail:
 categories:
     - "Ipsum"
 description: "Philip J. Fry, a pizza delivery boy, is accidentally frozen in 1999 and thawed out on New Year's Eve 2999."
-lead: "Philip J. Fry, a pizza delivery boy, is accidentally frozen in 1999 and thawed out on New Year's Eve 2999."
 ---
 
 # We can't compete with Mom! Her company is big and evil! Ours is small and neutral!

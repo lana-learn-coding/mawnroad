@@ -12,7 +12,6 @@ tags:
     - "Ads"
     - "Banner"
 description: "Demonstration of the banner ads, fake edition"
-lead: "Demonstration of the banner ads, fake edition"
 ---
 
 # Banner Ads: The Evolution of Online Advertising

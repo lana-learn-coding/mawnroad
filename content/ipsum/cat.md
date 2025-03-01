@@ -8,7 +8,6 @@ thumbnail:
 categories:
     - "Ipsum"
 description: "Litter your copy with more kitty."
-lead: "Litter your copy with more kitty."
 ---
 
 # Cat Ipsum
@@ -24,15 +23,18 @@ until he gives you food say meow repeatedly until belly rubs, feels good, yet ta
 day so my left donut is missing, as is my right my slave human didn't give me any food so i pooped on the floor. Going
 to catch the red dot today going to catch the red dot today scratch at fleas, meow until belly rubs, hide behind curtain
 when vacuum cleaner is on scratch strangers and poo on owners food but purr and who's the baby, disappear for four days
-and return home with an expensive injury; bite the vet. Attempt to leap between furniture but woefully miscalibrate and
+and return home with an expensive injury; bite the vet.
+
+Attempt to leap between furniture but woefully miscalibrate and
 bellyflop onto the floor; what's your problem? i meant to do that now i shall wash myself intently whatever or cat sit
-like bread chew master's slippers i could pee on this if i had the energy look at dog hiiiiiisssss. Blow up sofa in 3
-seconds with tail in the air stares at human while pushing stuff off a table yet blow up sofa in 3 seconds and swipe at
-owner's legs lie in the sink all day. Catch small lizards, bring them into house, then unable to find them on carpet eat
-a rug and furry furry hairs everywhere oh no human coming lie on counter don't get off counter yet hide when guests come
-over, for while happily ignoring when being called. Play riveting piece on synthesizer keyboard blow up sofa in 3
-seconds kitty poochy but take a deep sniff of sock then walk around with mouth half open skid on floor, crash into wall
-so get away from me stupid dog for fight an alligator and win.
+like bread chew master's slippers i could pee on this if i had the energy look at dog hiiiiiisssss.
+
+Blow up sofa in 3 seconds with tail in the air stares at human while pushing stuff off a table yet blow up sofa in 3
+seconds and swipe at owner's legs lie in the sink all day. Catch small lizards, bring them into house, then unable to
+find them on carpet eat a rug and furry furry hairs everywhere oh no human coming lie on counter don't get off counter
+yet hide when guests come over, for while happily ignoring when being called. Play riveting piece on synthesizer
+keyboard blow up sofa in 3 seconds kitty poochy but take a deep sniff of sock then walk around with mouth half open skid
+on floor, crash into wall so get away from me stupid dog for fight an alligator and win.
 
 ![Cat](/img/ipsum/cat2.jpg)
 

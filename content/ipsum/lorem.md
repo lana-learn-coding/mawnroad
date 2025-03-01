@@ -8,7 +8,6 @@ thumbnail:
 categories:
     - "Ipsum"
 description: "Lorem Ipsum text"
-lead: "Lorem Ipsum text"
 ---
 
 # Lorem ipsum

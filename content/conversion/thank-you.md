@@ -12,7 +12,6 @@ tags:
     - "Conversions"
     - "Ads"
 description: "The thank you page after buying the product, fake edition"
-lead: "The thank you page after buying the product, fake edition"
 ---
 
 # Thank You for Your Purchase!

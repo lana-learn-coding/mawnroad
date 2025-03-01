@@ -10,7 +10,6 @@ categories:
 tags:
     - "Real"
 description: "Motherf*cking Placeholder Text Motherf*cker!"
-lead: "Motherf*cking Placeholder Text Motherf*cker!"
 ---
 
 ![Warning](/img/ipsum/strong-lang.jpg)

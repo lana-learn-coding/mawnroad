@@ -9,7 +9,6 @@ tags:
     - "Real"
     - "Native"
 description: "Demonstration of the REAL native ads"
-lead: "Demonstration of the REAL native ads"
 ---
 
 ### The Real Native Ads: An Authentic Approach to Advertising

@@ -12,7 +12,6 @@ tags:
     - "Conversions"
     - "Ads"
 description: "The thank you page after buying the product, fake edition, with pixel lib and configurable ?rate"
-lead: "The thank you page after buying the product, fake edition, with pixel lib and configurable ?rate"
 ---
 
 <script src="https://sdk-dev.moneyoyo.org/v1/pxl.js"></script>

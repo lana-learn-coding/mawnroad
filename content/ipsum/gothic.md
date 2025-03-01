@@ -10,7 +10,6 @@ categories:
 tags:
     - "Real"
 description: "A Dreadful Lorem Ipsum Generator"
-lead: "A Dreadful Lorem Ipsum Generator"
 ---
 
 # Gothic Ipsum

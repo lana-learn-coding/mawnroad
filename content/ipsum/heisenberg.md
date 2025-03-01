@@ -10,7 +10,6 @@ categories:
 tags:
     - "Real"
 description: "Let Him Cook"
-lead: "Let Him Cook"
 ---
 
 # Cook It!

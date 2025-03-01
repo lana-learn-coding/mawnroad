@@ -8,7 +8,6 @@ tags:
     - "Ads"
     - "Video"
 description: "Demonstration of the video ads, fake edition"
-lead: "Demonstration of the video ads, fake edition"
 ---
 
 # The Power of Video Ads in Modern Marketing

@@ -12,7 +12,6 @@ tags:
     - "Ads"
     - "Banner"
 description: "Demonstration of the interscroller banner ads, fake edition"
-lead: "Demonstration of the interscroller banner ads, fake edition"
 ---
 
 # Interscroller Ads: A Comprehensive Guide to Enhancing Mobile Advertising Engagement

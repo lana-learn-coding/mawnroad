@@ -8,7 +8,6 @@ tags:
     - "Ads"
     - "Native"
 description: "Demonstration of the FAKE native ads"
-lead: "Demonstration of the FAKE native ads"
 ---
 
 # Native Advertising: Bridging Content and Commerce

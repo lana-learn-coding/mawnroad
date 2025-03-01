@@ -8,7 +8,6 @@ thumbnail:
 categories:
     - "Ipsum"
 description: "The Cosmos Awaits"
-lead: "The Cosmos Awaits"
 ---
 
 # Sagan Ipsum

@@ -8,7 +8,6 @@ thumbnail:
 categories:
     - "Ipsum"
 description: "Level-headed son Michael Bluth takes over family affairs after his father is imprisoned. But the rest of his spoiled, dysfunctional family are making his job unbearable."
-lead: "Level-headed son Michael Bluth takes over family affairs after his father is imprisoned. But the rest of his spoiled, dysfunctional family are making his job unbearable."
 ---
 
 # That's what it said on 'Ask Jeeves.'

@@ -10,7 +10,6 @@ categories:
 tags:
     - "Real"
 description: "Everyone loves a bit of cheese right?"
-lead: "Everyone loves a bit of cheese right?"
 ---
 
 # Let's Generate Some Cheese!

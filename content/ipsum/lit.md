@@ -6,7 +6,6 @@ categories:
 tags:
     - "Real"
 description: "Literature classics we all know from high school"
-lead: "Literature classics we all know from high school"
 ---
 
 # Lit Ipsum

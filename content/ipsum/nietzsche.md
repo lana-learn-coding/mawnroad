@@ -8,7 +8,6 @@ thumbnail:
 categories:
     - "Ipsum"
 description: "I desire 150 words of truth"
-lead: "I desire 150 words of truth"
 ---
 
 # I desire 150 words of truth

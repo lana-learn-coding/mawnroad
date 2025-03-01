@@ -8,7 +8,6 @@ tags:
     - "Ads"
     - "Real"
 description: "Demonstration of the native push"
-lead: "Demonstration of the native push"
 ---
 
 
