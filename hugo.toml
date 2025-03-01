@@ -2,8 +2,9 @@ baseURL = 'https://mawnroad.pages.dev'
 languageCode = 'en-us'
 title = 'Mawnroad'
 theme = 'browse'
-paginate = '10'
-disqusShortname = "mawnroad"
+
+[pagination]
+pageSize = 10
 
 [markup.goldmark.renderer]
 unsafe = true
@@ -23,16 +24,10 @@ shortname = "mawnroad"
 [services.googleAnalytics]
 ID = "G-MEASUREMENT_ID"
 
-[author]
-avatar = "img/avatar.jpg"
-name = "Manwgo"
-bio = "Manwgo's true identity is unknown. Maybe he is a successful blogger or writer. Nobody knows it."
-
 [params.author]
 avatar = "img/avatar.jpg"
 name = "Manwgo"
 bio = "Manwgo's true identity is unknown. Maybe he is a successful blogger or writer. Nobody knows it."
-
 
 [params.style.vars]
 highlightColor = "#a16207" # Override highlight color
