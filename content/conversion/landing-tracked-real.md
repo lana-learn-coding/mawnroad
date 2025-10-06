@@ -19,7 +19,7 @@ description: "The tracked landing page for buying the product"
 
 # Fill Your Cart With Joy – Shop Smarter, Save Bigger!
 
-<input type="text" id="name" name="name" placeholder="Name" style="margin-bottom: 10px">
+<input type="text" id="name" name="name" placeholder="Name" style="margin-bottom: 10px;background: var(--accent-bg-color)">
 
 ### [Click to complete the real purchase]({{< relref "/conversion/thank-you-real.md" >}} "PURCHASE")
 
