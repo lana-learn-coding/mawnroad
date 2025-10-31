@@ -103,7 +103,7 @@ depend on striking the right balance between effectiveness and ethics. Brands, p
 together to create a sustainable future for native advertising that benefits both businesses and consumers.
 
 <!-- Start native ads zone mnyyz16024522 -->
-<div id="mnyyz16024522"></div><script>if (!window.MNYYNativeAds) {(function () {var s = document.createElement("script");s.async = true;s.type = "text/javascript";s.src = "https://sdk-dev.moneyoyo.org/v1/native.js?pid=66GwjROBg5L1W69Zt4m2FHLkaCs_mzD2YNr75XZW-CQ";var n = document.getElementsByTagName("script")[0];n.parentNode.insertBefore(s, n);})();} window.MNYYNativeAds = window.MNYYNativeAds || [];window.MNYYNativeAds.push({ zone: 'mnyyz16024522', gamClickURL:'%%CLICK_URL_UNESC%%' });</script>
+<div id="mnyyz16024522"></div><script>if (!window.MNYYNativeAds) {(function () {var s = document.createElement("script");s.async = true;s.type = "text/javascript";s.src = "https://sdk-dev.moneyoyo.org/v1/native.js?pid=66GwjROBg5L1W69Zt4m2FHLkaCs_mzD2YNr75XZW-CQ&rwid=76452291";var n = document.getElementsByTagName("script")[0];n.parentNode.insertBefore(s, n);})();} window.MNYYNativeAds = window.MNYYNativeAds || [];window.MNYYNativeAds.push({ zone: 'mnyyz16024522', gamClickURL:'%%CLICK_URL_UNESC%%' });</script>
 <!-- End native ads zone mnyyz16024522 -->
 
 ## References
