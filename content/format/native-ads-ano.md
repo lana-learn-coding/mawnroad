@@ -1,6 +1,6 @@
 ---
-title: "Native Ads"
-date: "2024-08-17"
+title: "Native Ads (Another Site)"
+date: "2024-08-10"
 thumbnail:
     src: "img/format/native_fake.jpg"
     visibility:
@@ -16,6 +16,8 @@ description: "Demonstration of the FAKE native ads"
 
 # Native Advertising: Bridging Content and Commerce
 
+Get recommended Articles from another website.
+
 ## Abstract
 
 Native advertising has emerged as a powerful marketing strategy in the digital age, blending advertising content
@@ -24,7 +26,7 @@ native ads. We analyze the ways in which native advertising aligns with the cons
 marketing, and the potential challenges it poses to transparency in media.
 
 <!-- Start native ads zone mnyyz51206238 -->
-<div id="mnyyz51206238"></div><script>if (!window.MNYYNativeAds) {(function () {var s = document.createElement("script");s.async = true;s.type = "text/javascript";s.src = "https://sdk-dev.moneyoyo.org/v1/native.js?pid=66GwjROBg5L1W69Zt4m2FHLkaCs_mzD2YNr75XZW-CQ";var n = document.getElementsByTagName("script")[0];n.parentNode.insertBefore(s, n);})();} window.MNYYNativeAds = window.MNYYNativeAds || [];window.MNYYNativeAds.push({ zone: 'mnyyz51206238', gamClickURL:'%%CLICK_URL_UNESC%%' });</script>
+<div id="mnyyz51206238"></div><script>if (!window.MNYYNativeAds) {(function () {var s = document.createElement("script");s.async = true;s.type = "text/javascript";s.src = "https://sdk-dev.moneyoyo.org/v1/native.js?pid=66GwjROBg5L1W69Zt4m2FHLkaCs_mzD2YNr75XZW-CQ&rwid=76452291";var n = document.getElementsByTagName("script")[0];n.parentNode.insertBefore(s, n);})();} window.MNYYNativeAds = window.MNYYNativeAds || [];window.MNYYNativeAds.push({ zone: 'mnyyz51206238', gamClickURL:'%%CLICK_URL_UNESC%%' });</script>
 <!-- End native ads zone mnyyz51206238 -->
 
 ## Introduction
@@ -103,7 +105,7 @@ depend on striking the right balance between effectiveness and ethics. Brands, p
 together to create a sustainable future for native advertising that benefits both businesses and consumers.
 
 <!-- Start native ads zone mnyyz16024522 -->
-<div id="mnyyz16024522"></div><script>if (!window.MNYYNativeAds) {(function () {var s = document.createElement("script");s.async = true;s.type = "text/javascript";s.src = "https://sdk-dev.moneyoyo.org/v1/native.js?pid=66GwjROBg5L1W69Zt4m2FHLkaCs_mzD2YNr75XZW-CQ";var n = document.getElementsByTagName("script")[0];n.parentNode.insertBefore(s, n);})();} window.MNYYNativeAds = window.MNYYNativeAds || [];window.MNYYNativeAds.push({ zone: 'mnyyz16024522', gamClickURL:'%%CLICK_URL_UNESC%%' });</script>
+<div id="mnyyz16024522"></div><script>if (!window.MNYYNativeAds) {(function () {var s = document.createElement("script");s.async = true;s.type = "text/javascript";s.src = "https://sdk-dev.moneyoyo.org/v1/native.js?pid=66GwjROBg5L1W69Zt4m2FHLkaCs_mzD2YNr75XZW-CQ&rwid=76452291";var n = document.getElementsByTagName("script")[0];n.parentNode.insertBefore(s, n);})();} window.MNYYNativeAds = window.MNYYNativeAds || [];window.MNYYNativeAds.push({ zone: 'mnyyz16024522', gamClickURL:'%%CLICK_URL_UNESC%%' });</script>
 <!-- End native ads zone mnyyz16024522 -->
 
 ## References
