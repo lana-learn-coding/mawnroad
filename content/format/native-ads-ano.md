@@ -1,10 +1,6 @@
 ---
 title: "Native Ads (Another Site)"
 date: "2024-08-10"
-thumbnail:
-    src: "img/format/native_fake.jpg"
-    visibility:
-        - list
 categories:
     - "Ads"
 tags:

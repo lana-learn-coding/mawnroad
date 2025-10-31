@@ -1,6 +1,10 @@
 ---
 title: "Native Ads"
 date: "2024-08-17"
+thumbnail:
+    src: "img/format/native_fake.jpg"
+    visibility:
+        - list
 categories:
     - "Ads"
 tags:
