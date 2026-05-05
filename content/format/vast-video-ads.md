@@ -48,7 +48,7 @@ devices, without compatibility issues.
 
 <div style="display: flex;justify-content: center">
     <video id="my-video" class="video-js" controls preload="auto" width="640">
-        <source src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" type="video/mp4" />
+        <source src="/vast/bbb_sunflower_720p_30fps_normal.webm" type="video/mp4" />
     </video>
 </div>
 
