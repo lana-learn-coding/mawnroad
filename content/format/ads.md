@@ -1,6 +1,6 @@
 ---
 title: "All Ad Formats"
-date: "2025-05-16"
+date: "2026-05-16"
 categories:
     - "Ads"
 tags:
