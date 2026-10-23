@@ -1,6 +1,6 @@
 ---
 title: "Landing Page"
-date: "2025-09-18"
+date: "2025-09-14"
 categories:
     - "Landing"
     - "Conversions"

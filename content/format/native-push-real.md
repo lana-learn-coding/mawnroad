@@ -1,11 +1,16 @@
 ---
 title: "Native Push, The Actual One"
 date: "2024-09-10"
+thumbnail:
+    src: "img/format/native-push.jpg"
+    visibility:
+        - list
 categories:
     - "Ads"
 tags:
     - "Demo"
     - "Ads"
+    - "Push"
     - "Real"
 description: "Demonstration of the native push"
 ---
@@ -58,6 +63,8 @@ ensure that they are transparent about data collection practices and comply with
 Protection Regulation (GDPR) to maintain user trust.
 
 ## The Future of Native Push Ads
+
+![Native Push Ad Demo](/img/format/native-push.jpg)
 
 As consumers continue to demand more personalized and less intrusive online experiences, native push ads are poised to
 become a staple in digital marketing strategies. Brands that adopt this approach will likely see improved engagement and

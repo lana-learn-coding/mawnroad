@@ -1,6 +1,6 @@
 ---
 title: "Legit VAST Video Ads"
-date: "2026-05-03"
+date: "2025-02-03"
 categories:
     - "Ads"
 tags:

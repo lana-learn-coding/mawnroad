@@ -1,6 +1,10 @@
 ---
 title: "Video Ads"
 date: "2025-01-01"
+thumbnail:
+    src: "img/format/video.jpg"
+    visibility:
+        - list
 categories:
     - "Ads"
 tags:

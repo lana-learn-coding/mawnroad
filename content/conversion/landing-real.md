@@ -1,6 +1,6 @@
 ---
 title: "Legit Landing"
-date: "2025-09-17"
+date: "2025-09-15"
 categories:
     - "Landing"
     - "Conversions"
