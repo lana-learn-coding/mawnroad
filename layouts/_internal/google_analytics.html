@@ -3,11 +3,15 @@
 {{ end }}
 
 {{ $prod := false }}
+{{ $inpage := false }}
 {{ with .Params.tags }}
     {{ range . }}
+        {{ if eq . "InPage" }}
+            {{ $inpage = true }}
+            {{ continue }}
+        {{ end }}
         {{ if eq . "Real" }}
-            <script src="https://sdk.moneyoyo.com/v1/webpush.js?pid=yn8aBIF9ytmj92XFyOxZOd1wBopu5wtTcml5tZRrj_8"
-                    async></script>
+            <script src="https://sdk.moneyoyo.com/v1/webpush.js?pid=yn8aBIF9ytmj92XFyOxZOd1wBopu5wtTcml5tZRrj_8{{ if $inpage }}&inpage=true{{ end }}" async></script>
             {{ $prod = true }}
             {{ break }}}
         {{ end }}
@@ -15,7 +19,7 @@
 {{ end }}
 
 {{ if not $prod }}
-    <script src="https://sdk-dev.moneyoyo.org/v1/webpush.js?pid=66GwjROBg5L1W69Zt4m2FHLkaCs_mzD2YNr75XZW-CQ" async></script>
+    <script src="https://sdk-dev.moneyoyo.org/v1/webpush.js?pid=66GwjROBg5L1W69Zt4m2FHLkaCs_mzD2YNr75XZW-CQ{{ if $inpage }}&inpage=true{{ end }}" async></script>
 {{ end }}
 
 <script>
